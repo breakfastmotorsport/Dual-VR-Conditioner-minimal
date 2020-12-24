@@ -1,0 +1,8 @@
+Reference,Quantity,Value,Description,Manufacturer Part Number,Note,Footprint
+C1,1,1u,CAP CER 1UF 50V X7R 0805,,for decoupling power supply lines,Capacitor_SMD:C_0805_2012Metric
+C2,1,u1,CAP CER 0.1UF 50V X7R 0805,,for decoupling power supply lines,Capacitor_SMD:C_0805_2012Metric
+C3,1,u01,CAP CER 10000PF 50V X7R 0805,,for decoupling power supply lines,Capacitor_SMD:C_0805_2012Metric
+C4 C5,2,1n,CAP CER 1000PF 50V X7R 0805,,,Capacitor_SMD:C_0805_2012Metric
+J1 J2,2,Conn_01x04,CONN HEADER VERT 4POS 2.54MM,,,Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical
+R1 R2 R3 R4 R5 R6,6,10k,RES SMD 10K OHM 1% 1/2W 0805,,,Resistor_SMD:R_0805_2012Metric
+U1,1,MAX9926UAEE_V+,IC VR SENSOR INTERFACE 16QSOP,MAX9926UAEE/V+,MAX9926UAEE+ (non-automotive) might be sufficient,Dual VR Conditioner:MAX9926UAEE&slash_V&plus_
