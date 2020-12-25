@@ -1,4 +1,4 @@
-# Dual VR Conditioner minimal 1.1 (not that minimal anymore)
+# Dual VR Conditioner minimal 1.1 (not that minimal)
 
 This board translates the differential signals from up to two inductive engine speed/position sensors into clean output pulses required by Speeduino and other stand-alone ECUs. The pinout of this module matches the VR socket on Speeduino boards.
 
